@@ -1,0 +1,19 @@
+.header-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 70%;
+    border: solid 1px #D3D3D3;
+    height: 100%;
+}
+
+.header-content-start {
+    display: flex;
+    width: 15%;
+    gap: 10%
+}
+
+.header-content-end {
+    display: flex;
+    width: 10%;
+    gap: 20%;
+}

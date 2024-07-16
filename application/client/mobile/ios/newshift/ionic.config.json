@@ -1,0 +1,7 @@
+{
+  "name": "newshift",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

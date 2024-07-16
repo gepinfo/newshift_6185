@@ -1,0 +1,26 @@
+.ant-layout-sider-trigger {
+    display: flex;
+    padding: 20px;
+    background-color: #003eaa !important;
+}
+
+.logo-container {
+    margin-top: 10px;
+}
+
+.menu-items {
+    background-color: #003eaa;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ant-float-btn-body {
+    background-color: #003eaa !important;
+}
+
+.ant-float-btn-default {
+    border: solid 9px #003eaa;
+    left: 15px;
+}
